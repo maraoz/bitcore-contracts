@@ -1,0 +1,29 @@
+{
+  "name": "bitcore-contracts",
+  "main": "./bitcore-contracts.min.js",
+  "version": "0.11.0",
+  "homepage": "https://github.com/bitpay/bitcore-contracts",
+  "authors": [
+    "Manuel Araoz <manuelaraoz@gmail.com>"
+  ],
+  "description": "Smart contracts tools in bitcore",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi",
+    "contracts",
+    "smart contract"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
